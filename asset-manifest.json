@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JokeGenerator/static/css/main.46784d56.css",
+    "main.js": "/JokeGenerator/static/js/main.2773d931.js",
+    "index.html": "/JokeGenerator/index.html",
+    "main.46784d56.css.map": "/JokeGenerator/static/css/main.46784d56.css.map",
+    "main.2773d931.js.map": "/JokeGenerator/static/js/main.2773d931.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46784d56.css",
+    "static/js/main.2773d931.js"
+  ]
+}
